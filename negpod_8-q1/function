@@ -1,0 +1,9 @@
+# Function to create a student record
+   create_student_record() {
+        echo "Enter Student Email:"
+        read email
+        echo "Enter Student Age:"
+        read age
+        echo "Enter Student ID:"
+        read student_id
+
